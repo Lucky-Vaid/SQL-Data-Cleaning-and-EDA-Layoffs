@@ -47,8 +47,6 @@ Run the EDA script to reproduce the analysis
 
 2. Business Insights
 
-At the end write something like
-
 Top affected industry:
 Consumer
 
